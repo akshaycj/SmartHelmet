@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF5350</color>
+    <color name="colorPrimaryDark">#F44336</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOrange200">#FFCC80</color>
+    <color name="colorOrange300">#FFB74D</color>
+    <color name="colorOrange400">#FFA726</color>
+    <color name="colorOrange500">#FF9800</color>
+    <color name="colorOrange600">#FB8C00</color>
+    <color name="colorOrange700">#F57C00</color>
+    <color name="colorOrange800">#EF6C00</color>
+    <color name="colorOrange900">#E65100</color>
+
+
+
+</resources>
